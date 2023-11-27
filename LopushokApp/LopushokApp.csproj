@@ -160,6 +160,7 @@
     <None Include="packages.config" />
     <None Include="ProductsPictures\testing-template.docx" />
     <None Include="ProductsPictures\testing-template_pulled.docx" />
+    <None Include="ProductsPictures\Импорт Логин.docx" />
     <None Include="ProductsPictures\Руководство пользователя.docx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
